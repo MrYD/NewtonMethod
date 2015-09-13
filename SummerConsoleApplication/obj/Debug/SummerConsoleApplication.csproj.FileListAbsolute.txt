@@ -1,0 +1,6 @@
+C:\Users\wang\Documents\cs-beginner\SummerConsoleApplication\bin\Debug\SummerConsoleApplication.exe.config
+C:\Users\wang\Documents\cs-beginner\SummerConsoleApplication\obj\Debug\SummerConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\wang\Documents\cs-beginner\SummerConsoleApplication\bin\Debug\SummerConsoleApplication.exe
+C:\Users\wang\Documents\cs-beginner\SummerConsoleApplication\bin\Debug\SummerConsoleApplication.pdb
+C:\Users\wang\Documents\cs-beginner\SummerConsoleApplication\obj\Debug\SummerConsoleApplication.exe
+C:\Users\wang\Documents\cs-beginner\SummerConsoleApplication\obj\Debug\SummerConsoleApplication.pdb
